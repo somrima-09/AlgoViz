@@ -15,7 +15,7 @@ Technologies Used:
   Frontend: HTML, CSS, JavaScript
   Deployment: GitHub Pages
 
-Usage: Guidance on how to use Sorting Visualizer, including:
+Usage:
 
   Selecting and visualizing different sorting algorithms
   Adjusting visualization settings (speed, array size)
