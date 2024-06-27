@@ -1,22 +1,32 @@
-Project Name: AlgoViz
+**Project Name: AlgoViz**
 
 Demo:
 
 Features:
 
   1.Implemented algorithms:
-      Bubble sort
+  
+     ** Bubble sort
+      
       Selection sort
+      
       Insertion sort
+      
       Merge sort
+      
       Quick sort
-      Heap sort
+      
+      Heap sort**
 
   2.Colored representation of step being executed:
-    1) Blue:default
+  
+   ** 1) Blue:default
+   
     2) Yellow: Being compared
+    
     3) Red: Identified as in incorrect position and to be moved
-    4) Green: In correct position
+    
+    4) Green: In correct position**
   
   3.Interactive controls to modify sorting parameters (array size, speed of visualization).
 
@@ -26,10 +36,10 @@ Features:
 
 Technologies Used:
 
-  1.Frontend: HTML, CSS, JavaScript
+  _1.Frontend: HTML, CSS, JavaScript
   
   2.Deployment: GitHub Pages
-
+_
 Usage:
 
   1.Selecting and visualizing different sorting algorithms
