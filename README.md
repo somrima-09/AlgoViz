@@ -38,7 +38,7 @@
 
   _1.Frontend: HTML, CSS, JavaScript_
   
- _ 2.Deployment: GitHub Pages_
+ _2.Deployment: GitHub Pages_
   
 **Usage:**
 
