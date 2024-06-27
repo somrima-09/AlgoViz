@@ -77,8 +77,10 @@ nav .header_right .algos {
 }
 
 nav .header_right .algos button {
-  background-color: transparent;
+  background-color: blue;
   border: none;
+  border-radius: 15px;
+  box-shadow: 2px 2px 2px 2px rgb(144, 2, 2);
   color: white;
   outline: none;
   padding: 5% 0%;
@@ -86,7 +88,8 @@ nav .header_right .algos button {
 }
 
 nav .header_right .algos button:hover {
-  background-color: blue;
+  background-color: rgb(51, 207, 4);
+  box-shadow: 2.5px 2.5px 2.5px 2.5px rgb(199, 14, 14);
   cursor: pointer;
 }
 
